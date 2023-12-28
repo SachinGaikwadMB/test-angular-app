@@ -90,8 +90,9 @@ Here is a working live demo :  https://angular.ganatan.com/
 # download the example or clone the repo from github
 git clone https://github.com/ganatan/angular-app.git
 
-# download the example or clone the repo from gitlab
+# download the example or clone the repository  from gitlab
 git clone https://gitlab.com/ganatan/angular-app.git
+
 
 # change directory
 cd angular-app
