@@ -1,5 +1,6 @@
  # Angular 16 / Bootstrap 5 & CRUD REST API
-
+This is the branch dev forget password sis used to update password in case of user forget password.
+This application is created using angular 16. This is only test branch, there no quality report found on this branch.
 
 <table>
 <tr>
